@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @InsightInspector
 - 👀 I’m interested in making data science projects while learning
 - 🌱 I’m currently learning Statistics for Data Science
-- 💞️ I’m looking to collaborate on FinTech enthusiasts
+- 💞️ I’m looking to collaborate on projects related to Finance
 - 📫 **I arranged my projects throughn repositories under different organizations. Feel free to browse through it :)**
 
 <!---

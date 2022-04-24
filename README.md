@@ -1,19 +1,4 @@
-👋 Hi, I’m @Lumine_
-
-🎓 I am currently taking up Masters in Business Analytics. <br>
-
-🌱 Industry Experience:
-- Retail
-- Financial Institution
-- Consultancy
-<br>
-
-💻 Work Experience:
-- Audit Analytics
-- Risk and Fraud Analytics
-<br>
-
-💞️ I’m currently working on Data Science Projects related to Retail, Finance, and Fraud Detection
+👋 I’m currently working on Data Science Projects related to Retail, Finance, and Fraud Detection
 
 📫 **I arranged my projects through repositories under different organizations. Feel free to browse through it :)**
 

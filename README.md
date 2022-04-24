@@ -1,13 +1,6 @@
 👋 Hi, I’m @Lumine_
 
 🎓 I am currently taking up Masters in Business Analytics. <br>
-🎓 My undergraduate degree is Bachelor of Science in Accountancy. <br>
-<br>
-
-📑 My certifications are the following:
-- Certified Public Accountant <br>
-- Certified Tableau Desktop Specialist
-<br>
 
 🌱 Industry Experience:
 - Retail

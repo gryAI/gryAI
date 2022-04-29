@@ -1,4 +1,4 @@
-👋 Hi, I'm @Grace_
+👋 Hi!
 
 🧑‍🎓 I am currently taking up Masters in Business Analytics. <br>
 🧑‍🎓My undergraduate degree is Bachelor of Science in Accountancy. <br>

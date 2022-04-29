@@ -1,6 +1,11 @@
 👋 Hi! Thanks for visiting.
 
-📫 **I arranged my projects through repositories under different organizations. Feel free to browse through it :)**
+📫 **My projects are arranged through repositories under different organizations linked below. Feel free to browse through it :)** <br>
+- Data Camp Projects - https://github.com/DataCampProjects (3 Repositories)
+- Exploratory Data Analysis - https://github.com/Exploratory-Data-Analysis (2 Repositories)
+- Statistical Analysis - https://github.com/Statistical-Analysis (1 Repository)
+- Machine Learning - https://github.com/The-Machine-Learning-Project
+
 
 -----------------------------------------------------------------------------------
 

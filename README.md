@@ -1,10 +1,14 @@
-👋 Hi!
+👋 Hi! 
 
-🧑‍🎓 I am currently taking up Masters in Business Analytics. <br>
-🧑‍🎓My undergraduate degree is Bachelor of Science in Accountancy. <br>
+-----------------------------------------------------------------------------------
+
+**ABOUT ME:**
+
+🧑‍🎓 Masters in Business Analytics Student. <br>
+🧑‍🎓Graduate of Bachelor of Science in Accountancy. <br>
 <br>
 
-🧣 My certifications are the following:
+🧣 Certifications:
 - Certified Public Accountant <br>
 - Certified Tableau Desktop Specialist
 <br>

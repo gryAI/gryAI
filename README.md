@@ -4,7 +4,7 @@
 - **Data Camp Projects**<br>
 `3 Repositories` - https://github.com/DataCampProjects <br><br>
 - **Exploratory Data Analysis** <br>
-`2 Repositories` - https://github.com/Exploratory-Data-Analysis <br><br>
+`3 Repositories` - https://github.com/Exploratory-Data-Analysis <br><br>
 - **Statistical Analysis** <br>
 `1 Repository` - https://github.com/Statistical-Analysis <br><br> 
 - **Machine Learning** - https://github.com/The-Machine-Learning-Project

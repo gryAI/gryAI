@@ -1,10 +1,13 @@
 👋 Hi! Thanks for visiting.
 
 📫 **My projects are arranged through repositories under different organizations linked below. Feel free to browse through it :)** <br>
-- Data Camp Projects - https://github.com/DataCampProjects (3 Repositories)
-- Exploratory Data Analysis - https://github.com/Exploratory-Data-Analysis (2 Repositories)
-- Statistical Analysis - https://github.com/Statistical-Analysis (1 Repository)
-- Machine Learning - https://github.com/The-Machine-Learning-Project
+- **Data Camp Projects**<br>
+`3 Repositories` - https://github.com/DataCampProjects <br><br>
+- **Exploratory Data Analysis** <br>
+`2 Repositories` - https://github.com/Exploratory-Data-Analysis <br><br>
+- **Statistical Analysis** <br>
+`1 Repository` - https://github.com/Statistical-Analysis <br><br> 
+- **Machine Learning** - https://github.com/The-Machine-Learning-Project
 
 
 -----------------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 
 📫 **My projects are arranged through repositories under different organizations linked below. Feel free to browse through it :)** <br>
 - **Data Camp Projects**<br>
-`3 Repositories` - https://github.com/DataCampProjects <br><br>
+`6 Repositories` - https://github.com/DataCampProjects <br><br>
 - **Exploratory Data Analysis** <br>
 `3 Repositories` - https://github.com/Exploratory-Data-Analysis <br><br>
 - **Statistical Analysis** <br>

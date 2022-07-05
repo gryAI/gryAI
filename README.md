@@ -8,7 +8,9 @@
 - **Statistical Analysis** <br>
 `1 Repository` - https://github.com/Statistical-Analysis <br><br> 
 - **Machine Learning** - https://github.com/The-Machine-Learning-Project
-
+- **Omdena Projects** <br>
+`Omdena Trieste Chapter: Using Social Media to Study Long Covid in Italy` - https://github.com/OmdenaAI/trieste-italy-long-covid <br><br>
+`Omdena Datacamp: Bringing Data Science Education to Secondary Schools in India for Zero Cost with Machine Learning` - https://dagshub.com/grace.estrada/Omdena-DataCamp <br><br>
 
 -----------------------------------------------------------------------------------
 

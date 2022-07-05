@@ -7,10 +7,12 @@
 `3 Repositories` - https://github.com/Exploratory-Data-Analysis <br><br>
 - **Statistical Analysis** <br>
 `1 Repository` - https://github.com/Statistical-Analysis <br><br> 
-- **Machine Learning** - https://github.com/The-Machine-Learning-Project
+- **Machine Learning** - https://github.com/The-Machine-Learning-Project <br><br>
 - **Omdena Projects** <br>
-`Omdena Trieste Chapter: Using Social Media to Study Long Covid in Italy` - https://github.com/OmdenaAI/trieste-italy-long-covid <br><br>
-`Omdena Datacamp: Bringing Data Science Education to Secondary Schools in India for Zero Cost with Machine Learning` - https://dagshub.com/grace.estrada/Omdena-DataCamp <br><br>
+`Omdena Trieste Chapter: Using Social Media to Study Long Covid in Italy`<br>
+https://github.com/OmdenaAI/trieste-italy-long-covid <br><br>
+`Omdena Datacamp: Bringing Data Science Education to Secondary Schools in India for Zero Cost with Machine Learning`<br>
+https://dagshub.com/grace.estrada/Omdena-DataCamp <br><br>
 
 -----------------------------------------------------------------------------------
 

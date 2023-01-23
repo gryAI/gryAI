@@ -26,6 +26,7 @@ https://dagshub.com/grace.estrada/Omdena-DataCamp <br><br>
 🧣 Certifications:
 - Certified Public Accountant <br>
 - Certified Tableau Desktop Specialist
+- AWS Certified Cloud Practitioner
 <br>
 
 🌱 Industry Experience:

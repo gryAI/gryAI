@@ -38,6 +38,8 @@ https://dagshub.com/grace.estrada/Omdena-DataCamp <br><br>
 💻 Work Experience:
 - Audit Analytics
 - Risk and Fraud Analytics
+- Scrum Master
+- Data Scientist
 <br>
 
 ⏳ I'm currently working on Data Science Projects related to Retail, Finance, and Fraud Detection

@@ -8,7 +8,7 @@
 - **Statistical Analysis** <br>
 `1 Repository` - https://github.com/Statistical-Analysis <br><br> 
 - **Machine Learning** <br>
-`5 Repositories` - https://github.com/The-Machine-Learning-Project <br><br>
+`7 Repositories` - https://github.com/The-Machine-Learning-Project <br><br>
 - **Omdena Projects** <br>
 `Omdena Trieste Chapter: Using Social Media to Study Long Covid in Italy`<br>
 https://github.com/OmdenaAI/trieste-italy-long-covid <br><br>
@@ -31,7 +31,7 @@ https://dagshub.com/grace.estrada/Omdena-DataCamp <br><br>
 
 🌱 Industry Experience:
 - Retail
-- Financial Institution
+- Insurance
 - Consultancy
 <br>
 
@@ -42,7 +42,7 @@ https://dagshub.com/grace.estrada/Omdena-DataCamp <br><br>
 - Data Scientist
 <br>
 
-⏳ I'm currently working on Data Science Projects related to Retail, Finance, and Fraud Detection
+⏳ I'm currently working on Data Science Projects related to Retail, Finance, Insurance, and Fraud Detection
 
 
 

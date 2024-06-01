@@ -1,4 +1,6 @@
-👋 Hi! Thanks for visiting.
+-----------------------------------------------------------------------------------
+**Hello!** 👋 <br> <br>
+-----------------------------------------------------------------------------------
 
 📫 **My projects are arranged through repositories under different organizations linked below. Feel free to browse through it :)** <br>
 - **Data Camp Projects**<br>

@@ -11,10 +11,13 @@
 `1 Repository` - https://github.com/Statistical-Analysis <br><br> 
 - **Machine Learning** <br>
 `8 Repositories` - https://github.com/The-Machine-Learning-Project <br><br>
-**End-to-End-Data-Project** <br>
-`[REPO]` - https://github.com/gryAI/End-to-End-Data-Project <br><br>
-**CarValuePro `Web App powered by Machine Learning `** <br>
+- **ProjectCauchy** <br>
+`[REPO]` - https://github.com/gryAI/ProjectCauchy <br><br>
+- **CarValuePro `Web App powered by Machine Learning `** <br>
 `[REPO]` - <br><br>
+- **End-to-End-Data-Project** <br>
+`[REPO]` - https://github.com/gryAI/End-to-End-Data-Project <br><br>
+
 `Omdena Trieste Chapter: Using Social Media to Study Long Covid in Italy`<br>
 https://github.com/OmdenaAI/trieste-italy-long-covid <br><br>
 `Omdena Datacamp: Bringing Data Science Education to Secondary Schools in India for Zero Cost with Machine Learning`<br>

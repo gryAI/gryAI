@@ -13,6 +13,8 @@
 `8 Repositories` - https://github.com/The-Machine-Learning-Project <br><br>
 - **ProjectCauchy** <br>
 `[REPO]` - https://github.com/gryAI/ProjectCauchy <br><br>
+- **Baccarat-Game-Data-Simulator** <br>
+`[REPO]` - https://github.com/gryAI/Baccarat-Game-Data-Simulator <br><br>
 - **CarValuePro `Web App powered by Machine Learning `** <br>
 `[REPO]` - <br><br>
 - **End-to-End-Data-Project** <br>

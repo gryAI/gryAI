@@ -14,7 +14,7 @@
 - **ProjectCauchy** <br>
 `[REPO]` - https://github.com/gryAI/ProjectCauchy <br><br>
 - **Baccarat-Game-Data-Simulator** <br>
-`[REPO]` - https://github.com/gryAI/Baccarat-Game-Data-Simulator <br><br>
+`[REPO]` - https://github.com/gryAI/Baccarat-Game-Data-Generator-API <br><br>
 - **CarValuePro `Web App powered by Machine Learning `** <br>
 `[REPO]` - <br><br>
 - **End-to-End-Data-Project** <br>

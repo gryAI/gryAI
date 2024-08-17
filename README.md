@@ -11,9 +11,9 @@
 `1 Repository` - https://github.com/Statistical-Analysis <br><br> 
 - **Machine Learning** <br>
 `8 Repositories` - https://github.com/The-Machine-Learning-Project <br><br>
-- **ProjectCauchy** <br>
+- **ProjectCauchy** `Full Stack Data Project` <br>
 `[REPO]` - https://github.com/gryAI/ProjectCauchy <br><br>
-- **Game Data Generator** <br>
+- **Game Data Generator** `Deployed API`<br>
 `[REPO]` - https://github.com/gryAI/Baccarat-Game-Data-Generator-API <br><br>
 - **CarValuePro `Web App powered by Machine Learning `** <br>
 `[REPO]` - <br><br>

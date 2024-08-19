@@ -16,7 +16,7 @@
 - **Game Data Generator** `Deployed API`<br>
 `[REPO]` - https://github.com/gryAI/Baccarat-Game-Data-Generator-API <br><br>
 - **CarValuePro `Web App powered by Machine Learning `** <br>
-`[REPO]` - <br><br>
+`[REPO]` - https://github.com/gryAI/CarValuePro <br><br>
 - **End-to-End-Data-Project** <br>
 `[REPO]` - https://github.com/gryAI/End-to-End-Data-Project <br><br>
 
